@@ -1,0 +1,60 @@
+#puzzle-container {
+    width: 450px;
+    height: 450px;
+    margin: auto;
+}
+
+#puzzle-container input {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border-spacing: 0;
+}
+
+input {
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.actions {
+    width: 450px;
+    height: 450px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.square-1 {
+    background-color: cornflowerblue;
+}
+.square-2 {
+    background-color: cyan;
+}
+
+.square-3 {
+    background-color: coral;
+}
+
+.square-4 {
+    background-color: darkgoldenrod;
+}
+
+.square-5 {
+    background-color: darkolivegreen;
+}
+
+.square-6 {
+    background-color: greenyellow;
+}
+
+.square-7 {
+    background-color: darkkhaki;
+}
+
+.square-8 {
+    background-color: darksalmon;
+}
+
+.square-9 {
+    background-color: darkseagreen;
+}
